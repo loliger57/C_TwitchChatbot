@@ -1,0 +1,9 @@
+//saves all functions
+
+#ifndef TWITCHCHATBOT_FUNCTIONS_H
+#define TWITCHCHATBOT_FUNCTIONS_H
+
+
+
+
+#endif //TWITCHCHATBOT_FUNCTIONS_H
